@@ -29,7 +29,7 @@ _A Spring Boot application to dynamically manage Kubernetes resources using the 
 ## Daily / Weekly Series
 
 I'm actively sharing Kubernetes + Spring Boot learnings and mini-projects:
-- `Day 1`: Setting up `kind` for local testing
+- `Day 1`: [Setting up `kind` for local testing](Day1/docs/README.md)
 - `Day 2`: Integrating Spring Boot with Kubernetes Java client
 - `Day 3`: Dynamically patching Deployments with Java
 - _And more to come..._
